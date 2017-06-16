@@ -31,8 +31,6 @@
     "css-loader": "^0.28.0",
     "eslint": "^3.19.0",
     "eslint-plugin-react": "^6.10.3",
-    "node-sass": "^4.5.2",
-    "sass-loader": "^6.0.3",
     "style-loader": "^0.16.1",
     "webpack": "^2.4.1",
     "webpack-dev-server": "^2.4.4"
@@ -40,7 +38,8 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "styled-components": "^2.1.0"
   },
   "main": "server.js"
 }
